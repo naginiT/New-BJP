@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="126418" started-at="2018-03-15T14:56:02Z" finished-at="2018-03-15T14:58:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="126418" started-at="2018-03-15T14:56:02Z" finished-at="2018-03-15T14:58:09Z">
+      <class name="Execution.Homeex">
+        <test-method status="PASS" signature="Signin()[pri:0, instance:Execution.Homeex@8a9f61]" name="Signin" duration-ms="39674" started-at="2018-03-15T20:26:02Z" finished-at="2018-03-15T20:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+      </class> <!-- Execution.Homeex -->
+      <class name="Execution.Logoutex">
+        <test-method status="PASS" signature="Signin()[pri:0, instance:Execution.Logoutex@5ca609]" name="Signin" duration-ms="44724" started-at="2018-03-15T20:27:24Z" finished-at="2018-03-15T20:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+      </class> <!-- Execution.Logoutex -->
+      <class name="Execution.Viewproblemex">
+        <test-method status="PASS" signature="Signin()[pri:0, instance:Execution.Viewproblemex@2d45ba]" name="Signin" duration-ms="41952" started-at="2018-03-15T20:26:42Z" finished-at="2018-03-15T20:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+      </class> <!-- Execution.Viewproblemex -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
